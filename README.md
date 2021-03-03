@@ -7,7 +7,7 @@
 
 - 💬 I'm expert in **react, vue, php, node, ruby on rails**
 
-- 👨‍💻 I am working as a freelancer sometimes [https://upwork.com/christian-meza](https://upwork.com/christian-meza)
+- 👨‍💻 I am working as a freelancer sometimes [https://upwork.com/christian-meza](https://www.upwork.com/fl/christianm766)
 
 - ⚡ I am on youtube [https://bit.ly/3sC3PgC](https://bit.ly/3sC3PgC)
 
