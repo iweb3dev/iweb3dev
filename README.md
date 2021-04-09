@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [christian.meza.dev@gmail.com](christian.meza.dev@gmail.com)
 
-- ⚡ Fun Fact **I just landed on Github from Bitbucket**
+- ⚡ Fun Fact **I just started using public repositories to show off on Github**
 
 
 <h3 align="left">Languages and Tools:</h3>
