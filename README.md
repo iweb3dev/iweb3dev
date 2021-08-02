@@ -7,8 +7,6 @@
 
 - 💬 I'm expert in **react, vue, php, node, ruby on rails**
 
-- 👨‍💻 I am working as a freelancer sometimes [https://www.upwork.com/fl/christianm766](https://www.upwork.com/fl/christianm766)
-
 - ⚡ I am on youtube [https://bit.ly/3sC3PgC](https://bit.ly/3sC3PgC)
 
 - 🌱 I’m currently learning **django**
