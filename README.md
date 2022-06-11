@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian Meza</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate full-stack developer from Nevada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmeza-dev&label=Profile%20views&color=0e75b6&style=flat" alt="cmeza-dev" /> </p>
@@ -10,8 +10,6 @@
 - ⚡ I am on youtube [https://bit.ly/3sC3PgC](https://bit.ly/3sC3PgC)
 
 - 🌱 I’m currently learning **django**
-
-- 📫 How to reach me [christian.meza.dev@gmail.com](christian.meza.dev@gmail.com)
 
 - ⚡ Fun Fact **I just started using public repositories to show off on Github**
 
