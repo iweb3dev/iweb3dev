@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate full-stack developer from Nevada</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmeza-dev&label=Profile%20views&color=0e75b6&style=flat" alt="cmeza-dev" /> </p>
 
-- 🔭 I’m currently working on [Homegene](https://www.homegene.space)
+- 🔭 I’m currently working on [Callingpost](https://www.callingpost.com)
 
-- 💬 I'm expert in **react, vue, php, node, ruby on rails**
+- 💬 I'm expert in **react, vue, php, node, asp.net, ruby on rails**
 
-- ⚡ I am on youtube [https://bit.ly/3sC3PgC](https://bit.ly/3sC3PgC)
-
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **metaverse**
 
 - ⚡ Fun Fact **I just started using public repositories to show off on Github**
 
