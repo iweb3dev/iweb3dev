@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmeza-dev&label=Profile%20views&color=0e75b6&style=flat" alt="cmeza-dev" /> </p>
 
 - 🔭 I’m currently working on [Callingpost](https://www.callingpost.com)
 
-- 💬 I'm expert in **react, vue, php, node, asp.net, ruby on rails**
+- 💬 I'm expert in **react, angular, asp.net, ruby on rails**
 
 - 🌱 I’m currently learning **metaverse**
 
