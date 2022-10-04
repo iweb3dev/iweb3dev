@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working on [Callingpost](https://www.callingpost.com)
 
-- 💬 I'm expert in **react, angular, asp.net, ruby on rails**
+- 💬 I'm expert in **react, angular, node, asp.net, webgl**
 
 - 🌱 I’m currently learning **metaverse**
-
-- ⚡ Fun Fact **I just started using public repositories to show off on Github**
 
 
 <h3 align="left">Languages and Tools:</h3>
