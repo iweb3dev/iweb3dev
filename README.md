@@ -1,7 +1,6 @@
 <h1 align="center">Hello, World! 👋</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
--  My name is Christian Meza. You can find me on **Linkedin**: https://www.linkedin.com/in/christian-meza-919456207/
 - 🔭 I’m currently working on [Callingpost](https://www.callingpost.com)
 
 - 💬 I'm expert in **react, angular, node, asp.net, webgl**
