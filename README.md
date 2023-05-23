@@ -1,4 +1,4 @@
-## Hey 👋, I'm Christian Meza
+## Hello 👋
 
 Software programming has been a passion of mine since middle school. Having grown up in a military family, I am accustomed to change and work well with people of all backgrounds. As a collaborative, high-energy team builder, I believe in not just doing it right, but doing it better and differently. Experienced in Object Oriented Programming and Agile Methodologies🌐, A quick learner, I have the initiative to tackle challenges head-on, the character to overcome obstacles, and the confidence to positively influence others at every level of the organization. A champion of technology and innovation, I am driven to succeed in all I do! 🛠️
 
