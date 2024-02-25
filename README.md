@@ -101,7 +101,7 @@ Software programming has been a passion of mine since middle school. Having grow
 
 ### 📊 Github Stats
   
-![Stats Overview](https://private-user-images.githubusercontent.com/72861872/306810708-2329aa3c-885e-4329-b31b-612f2b084953.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg1NjA5MDYsIm5iZiI6MTcwODU2MDYwNiwicGF0aCI6Ii83Mjg2MTg3Mi8zMDY4MTA3MDgtMjMyOWFhM2MtODg1ZS00MzI5LWIzMWItNjEyZjJiMDg0OTUzLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIyVDAwMTAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyN2ZjYzA3OWViODM3ODQwODAzODhhYjM4ZjU4MjdmNTkwMmYxOWRhYzJiZGE2M2M0MjhkNzExZWMzOTNjYTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FUZnM6_Swo1tEFjCjmZ39NUScjHtjLrm4kPadu3MJeQ)
+![Stats Overview](https://github-production-user-asset-6210df.s3.amazonaws.com/72861872/307602296-a52aadc9-87cb-48fc-abe4-cbdb8c03664f.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240225T152752Z&X-Amz-Expires=300&X-Amz-Signature=d4a728fd886cfa0e6e2813f545de08280419374ff5b65b141fa8cceb7ffffbb5&X-Amz-SignedHeaders=host&actor_id=72861872&key_id=0&repo_id=344070156)
 ![Most Used Languages](https://user-images.githubusercontent.com/33221818/195927089-4a964a15-4b4a-4bb4-b597-e44a7e0834a1.svg)
 
 </a>
